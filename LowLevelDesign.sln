@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35514.174 d17.12
+VisualStudioVersion = 17.12.35514.174
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID", "SOLID\SOLID.csproj", "{5446BBA7-70DD-4A9F-B31D-106F574A9EA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy_Design_Pattern", "Strategy_Design_Pattern\Strategy_Design_Pattern.csproj", "{7F9EFD66-2C99-4833-9FB5-03CB00A7C893}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{5446BBA7-70DD-4A9F-B31D-106F574A9EA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5446BBA7-70DD-4A9F-B31D-106F574A9EA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5446BBA7-70DD-4A9F-B31D-106F574A9EA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F9EFD66-2C99-4833-9FB5-03CB00A7C893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F9EFD66-2C99-4833-9FB5-03CB00A7C893}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F9EFD66-2C99-4833-9FB5-03CB00A7C893}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F9EFD66-2C99-4833-9FB5-03CB00A7C893}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
